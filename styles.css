@@ -1,10 +1,16 @@
-div{
-	color:white;
-	background:purple;
+.main{
 	width:200px;
-	font-size:20px;
+	background:purple;
+	
+	
 	padding:10px;
 	border-left:5px solid green;
-	 text-decoration-line: underline;
+	 
+}
+.main{
+	font-style:normal;
+	text-decoration-line: underline;
+	font-size:20px;
+	color:white;
 }
 /* Your CSS Code here. */
